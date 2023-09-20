@@ -36,3 +36,4 @@ Continuing forward, I'd like to add the following:
 - Multi-way conversation (a.k.a Bot1 can ask questions back to Bot2, or Bot2 can add comments to Bot1's answer)
 - Adding the ability for a Bot to perform a random activity and add it to their **"Activities Done"** list. This can lead to longer and more complex dialogue between two Bots. Currently, the activities done list is hard-coded for the sake of testing.
 - Graphics could use an update if I ever get the time to flesh it out
+- Code cleanup (pretty messy as of it's current state)
