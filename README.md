@@ -1,5 +1,5 @@
-# AI-Community
-Building a conversation based around two Generative AI Agents using Cohere's API. WIP
+# AI-Community (W.I.P)
+Building a conversation based around two Generative AI Agents using Cohere's API. Heavily inspired by the idea behind [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf) 
 
 
 # v0.1
