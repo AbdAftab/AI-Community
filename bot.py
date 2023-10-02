@@ -4,7 +4,7 @@ import threading
 
 from weather import Weather
 
-api = "l3g2izJq1fulQN7gYw2dH2H6f7JOP7Oq3bwu0tgD"
+api = "" # Add api key
 co = cohere.Client(api)
 
 class Bot:
